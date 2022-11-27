@@ -58,6 +58,7 @@ Keluar
 
 # Flowchart
 
+![Screenshot (122)](https://user-images.githubusercontent.com/115516617/204141437-07e97417-bce6-41e8-9c93-aeb05d276d0d.png)
 
 
 
